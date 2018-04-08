@@ -8,3 +8,7 @@
 ## Ngrams Задание 2
 
 Английское слово "smoke" может употребляться в роли существительного (курение) и глагола (курить): 
+
+![https://github.com/sharipova5414056alina19/hw/blob/master/photo_2018-04-09_00-47-40.jpg](https://github.com/sharipova5414056alina19/hw/blob/master/photo_2018-04-09_00-47-40.jpg)
+
+
